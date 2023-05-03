@@ -1,0 +1,20 @@
+body {
+    background-color: #414141;
+}
+
+.cart {
+    min-height: 15%;
+}
+
+img {
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* UTILS */
+
+.bg-mustard {
+    background-color: #D9BB1F;
+}
